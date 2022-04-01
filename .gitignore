@@ -1,0 +1,11 @@
+
+*.bz2
+weights/trrosetta_homo/default_xaa2.data-00000-of-00001
+weights/trrosetta_homo/default_xaa2.index
+*.meta
+*.data-00000-of-00001
+weights/trrosetta_homo/default_xab2.index
+weights/trrosetta_homo/default_xac2.index
+weights/trrosetta_msa/cont/model_36b_71l.step4.xad.index
+weights/*
+conda.gpg
